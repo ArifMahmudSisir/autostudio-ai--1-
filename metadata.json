@@ -1,0 +1,7 @@
+{
+  "name": "AutoStudio AI",
+  "description": "A professional automotive photography management platform that uses AI to automatically remove backgrounds and apply branded dealership environments to vehicle inventory photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
